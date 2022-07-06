@@ -48,11 +48,6 @@ Start the server
   npm start
 ```
 
-
-## Authors
-
-- [@rajarshisg](https://github.com/rajarshisg)
-
   
 
     
